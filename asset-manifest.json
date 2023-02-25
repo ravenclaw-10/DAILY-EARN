@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DAILY-EARN/static/css/main.e2dfa88a.css",
+    "main.js": "/DAILY-EARN/static/js/main.a6b24750.js",
+    "static/js/787.8f283757.chunk.js": "/DAILY-EARN/static/js/787.8f283757.chunk.js",
+    "index.html": "/DAILY-EARN/index.html",
+    "main.e2dfa88a.css.map": "/DAILY-EARN/static/css/main.e2dfa88a.css.map",
+    "main.a6b24750.js.map": "/DAILY-EARN/static/js/main.a6b24750.js.map",
+    "787.8f283757.chunk.js.map": "/DAILY-EARN/static/js/787.8f283757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2dfa88a.css",
+    "static/js/main.a6b24750.js"
+  ]
+}
